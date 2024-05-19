@@ -1,0 +1,201 @@
+Bom dia Caros Alunos,
+
+Como vão?
+
+Espero que muito bem.
+
+Abaixo, segue as atividades de linguagem de programação Java Core.
+
+Bons Estudos.
+
+Professor Obama.
+
+Questões a serem respondidas:
+
+
+crie 10 questões consideradas fáceis de múltipla escolha com cinco alternativas e apenas uma correta para o assunto Definição e histórico do Machine Learning.
+
+1) Qual foi o ano de lançamento da primeira versão pública do Python?
+a) 1989
+b) 1991
+c) 1995
+d) 2000
+e) 2005
+
+Resposta correta: b) 1991
+
+2) Qual é o principal criador do Python?
+a) Guido van Rossum
+b) Linus Torvalds
+c) Larry Page
+d) Mark Zuckerberg
+e) Jeff Bezos
+
+Resposta correta: a) Guido van Rossum
+
+3) Em qual área Python é amplamente utilizado?
+a) Astronomia
+b) Medicina
+c) Engenharia Civil
+d) Desenvolvimento Web
+e) Agricultura
+
+Resposta correta: d) Desenvolvimento Web
+
+4) Qual é o tipo de dado usado para armazenar uma sequência de caracteres em Python?
+a) Inteiro
+b) Flutuante
+c) Booleano
+d) Lista
+e) String
+
+Resposta correta: e) String
+
+5) Qual é o resultado da expressão 2 + 3 * 4 em Python?
+a) 14
+b) 20
+c) 24
+d) 26
+e) 28
+
+Resposta correta: a) 14
+
+6) Qual é o operador utilizado para a exponenciação em Python?
+a) +
+b) -
+c) *
+d) /
+e) **
+
+Resposta correta: e) **
+
+7) Em Python, qual palavra-chave é usada para definir uma função?
+a) function
+b) define
+c) def
+d) func
+e) fun
+
+Resposta correta: c) def
+
+8) Qual função é usada para imprimir uma mensagem na tela em Python?
+a) print()
+b) write()
+c) display()
+d) show()
+e) echo()
+
+Resposta correta: a) print()
+
+9) Em Python, como você cria um comentário de uma linha?
+a) //
+b) --
+c) '''
+d) #
+e) //
+
+Resposta correta: d) #
+
+10)Qual é o tipo de dado usado para representar valores verdadeiros ou falsos em Python?
+a) Inteiro
+b) Flutuante
+c) Booleano
+d) Lista
+e) String
+
+Resposta correta: c) Booleano
+
+11) Qual é o método utilizado para encontrar o comprimento de uma lista em Python?
+a) length()
+b) size()
+c) count()
+d) len()
+e) sizeOf()
+
+Resposta correta: d) len()
+
+12) Qual é o operador utilizado para a concatenação de strings em Python?
+a) +
+b) -
+c) *
+d) /
+e) **
+
+Resposta correta: a) +
+
+13)Qual função é usada para converter um valor para um número inteiro em Python?
+a) int()
+b) float()
+c) str()
+d) bool()
+e) list()
+
+Resposta correta: a) int()
+
+14)Qual é o tipo de dado usado para armazenar uma coleção de elementos únicos em Python?
+a) Tupla
+b) Lista
+c) Dicionário
+d) Conjunto
+e) Array
+
+Resposta correta: d) Conjunto
+
+15) Qual é o operador utilizado para acessar elementos de uma lista ou string em Python?
+a) .
+b) []
+c) :
+d) ()
+e) <>
+
+Resposta correta: b) []
+
+
+
+
+1) Escreva um algoritmo para ler um valor do teclado e exibir como resposta o número sucessor.
+
+2) Escreva um algoritmo para ler um valor do teclado e exibir como resposta o número antecessor.
+
+3) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a soma dos valores.
+
+4) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a subtração dos valores.
+
+5) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a multiplicação dos valores.
+
+6) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a divisão dos valores.
+
+7) Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo. Dica a=b.h
+
+8) Escreva um algoritmo para ler as dimensões de um triângulo (base e altura), calcular e escrever a área do triângulo. Dica a=b.h/2
+
+9) Escreva um algoritmo para ler as dimensões de um quadrado (lado), calcular e escrever a área do quadrado. Dica a=l²
+
+10) Escreva um algoritmo para ler as dimensões de um losango (diagonal maior, diagonal menor), calcular e escrever a área do losango. Dica a=D.d/2
+
+11) Escreva um algoritmo para ler as dimensões de um trapézio (base amior, base menor e altura), calcular e escrever a área do trapézio. a=(B+b).h/2
+
+12) Escreva um algoritmo para ler as dimensões de um circulo (raio), calcular e escrever a área do circulo. a=pi*r²
+
+
+
+1) Escreva um programa que peça ao usuário para digitar seu nome e, em seguida, o imprima na tela.
+2) Crie um programa que solicite ao usuário sua altura e peso, e calcule seu índice de massa corporal (IMC).
+3) Faça um programa que pergunte ao usuário o valor do produto e o percentual de desconto, e retorne o valor final após o desconto.
+4) Faça um programa que receba três notas de um aluno e calcule sua média.
+5)Crie um programa que pergunte ao usuário a quantidade de dias, horas, minutos e segundos, e calcule o total em segundos.
+
+
+1) Faça um programa que receba a idade do usuário e imprima se ele é maior de idade ou não.
+2) Crie um programa que solicite o raio de um círculo e calcule sua área.
+3) Faça um programa que peça ao usuário para digitar um número e informe se é par ou ímpar.
+4) Escreva um programa que peça ao usuário para digitar uma frase e conte quantas vogais (a, e, i, o, u) ela possui.
+5) Escreva um programa que peça ao usuário para digitar três números e retorne o maior deles.
+6) Crie um programa que solicite ao usuário um número e imprima a tabuada correspondente até 10.
+7) Escreva um programa que peça ao usuário para digitar um número e verifique se é positivo, negativo ou zero.
+8) Faça um programa que receba um número inteiro e retorne se é primo ou não.
+
+9) Ler um valor e escrever a mensagem É MAIOR QUE 10! se o valor lido for maior que 10, caso contrário escrever NÃO É MAIOR QUE 10!
+10) Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).
+11) As maçãs custam R$ 1,30 cada se forem compradas menos de uma dúzia, e R$ 1,00 se forem compradas pelo menos 12. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o custo total da compra.
+12) Ler as notas da 1a. e 2a. avaliações de um aluno. Calcular a média aritmética simples e escrever uma mensagem que diga se o aluno foi ou não aprovado (considerar que nota igual ou maior que 6 o aluno é aprovado). Escrever também a média calculada. 
