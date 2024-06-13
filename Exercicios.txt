@@ -199,3 +199,304 @@ Resposta correta: b) []
 10) Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).
 11) As maçãs custam R$ 1,30 cada se forem compradas menos de uma dúzia, e R$ 1,00 se forem compradas pelo menos 12. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o custo total da compra.
 12) Ler as notas da 1a. e 2a. avaliações de um aluno. Calcular a média aritmética simples e escrever uma mensagem que diga se o aluno foi ou não aprovado (considerar que nota igual ou maior que 6 o aluno é aprovado). Escrever também a média calculada. 
+
+
+Tarefa 01
+
+﻿Bom dia Caros Alunos,
+
+Como vão?
+
+Espero que muito bem.
+
+Abaixo, segue as atividades da linguagem de programação Python.
+
+Bons Estudos.
+
+Professor Obama.
+
+Questões a serem respondidas:
+
+1) Qual foi o ano de lançamento da primeira versão pública do Python?
+a) 1989
+b) 1991
+c) 1995
+d) 2000
+e) 2005
+
+2) Qual é o principal criador do Python?
+a) Guido van Rossum
+b) Linus Torvalds
+c) Larry Page
+d) Mark Zuckerberg
+e) Jeff Bezos
+
+3) Em qual área Python é amplamente utilizado?
+a) Astronomia
+b) Medicina
+c) Engenharia Civil
+d) Desenvolvimento Web
+e) Agricultura
+
+4) Qual é o tipo de dado usado para armazenar uma sequência de caracteres em Python?
+a) Inteiro
+b) Flutuante
+c) Booleano
+d) Lista
+e) String
+
+5) Qual é o resultado da expressão 2 + 3 * 4 em Python?
+a) 14
+b) 20
+c) 24
+d) 26
+e) 28
+
+6) Qual é o operador utilizado para a exponenciação em Python?
+a) +
+b) -
+c) *
+d) /
+e) **
+
+7) Qual função é usada para imprimir uma mensagem na tela em Python?
+a) print()
+b) write()
+c) display()
+d) show()
+e) echo()
+
+8) Em Python, como você cria um comentário de uma linha?
+a) //
+b) --
+c) '''
+d) #
+e) //
+
+9) Qual é o tipo de dado usado para representar valores verdadeiros ou falsos em Python?
+a) Inteiro
+b) Flutuante
+c) Booleano
+d) Lista
+e) String
+
+10) Qual é o operador utilizado para a concatenação de strings em Python?
+a) +
+b) -
+c) *
+d) /
+e) **
+
+11) Qual função é usada para converter um valor para um número inteiro em Python?
+a) int()
+b) float()
+c) str()
+d) bool()
+e) list()
+
+Tarefa 02
+
+﻿Bom dia Caros Alunos,
+
+Como vão?
+
+Espero que muito bem.
+
+Abaixo, segue as atividades de linguagem de programação Python.
+
+Bons Estudos.
+
+Professor Obama.
+
+Questões a serem respondidas:
+
+1) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a soma dos valores.
+
+2) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a subtração dos valores.
+
+3) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a multiplicação dos valores.
+
+4) Escreva um algoritmo para ler dois valores do teclado e exibir como resposta a divisão dos valores.
+
+5) Escreva um algoritmo para ler dois valores do teclado (base e exponenciação) e exibir como resposta a exponenciação.
+
+6) Escreva um algoritmo para ler um valor do teclado e exibir como resposta o número antecessor.
+
+7) Escreva um algoritmo para ler um valor do teclado e exibir como resposta o número sucessor.
+
+8) Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo. Dica a=b.h
+
+9) Escreva um algoritmo para ler as dimensões de um triângulo (base e altura), calcular e escrever a área do triângulo. Dica a=b.h/2
+
+10) Escreva um algoritmo para ler as dimensões de um quadrado (lado), calcular e escrever a área do quadrado. Dica a=l²
+
+11) Escreva um algoritmo para ler as dimensões de um losango (diagonal maior, diagonal menor), calcular e escrever a área do losango. Dica a=D.d/2
+
+12) Escreva um algoritmo para ler as dimensões de um trapézio (base amior, base menor e altura), calcular e escrever a área do trapézio. a=(B+b).h/2
+
+13) Escreva um algoritmo para ler as dimensões de um circulo (raio), calcular e escrever a área do circulo. a=pi*r²
+
+14) Escreva um algoritmo para ler as dimensões de um hexagono, calcular e escrever a área do hexagono.
+
+Tarefa 03
+
+﻿﻿Bom dia Caros Alunos,
+
+Como vão?
+
+Espero que muito bem.
+
+Abaixo, segue as atividades de linguagem de programação Python.
+
+Bons Estudos.
+
+Professor Obama.
+
+Questões a serem respondidas:
+
+1) Escreva um programa que peça ao usuário para digitar seu nome e, em seguida, o imprima na tela.
+2) Crie um programa que solicite ao usuário sua altura e peso, e calcule seu índice de massa corporal (IMC).
+3) Faça um programa que pergunte ao usuário o valor do produto e o percentual de desconto, e retorne o valor final após o desconto.
+4) Faça um programa que receba três notas de um aluno e calcule sua média.
+5)Crie um programa que pergunte ao usuário a quantidade de dias, horas, minutos e segundos, e calcule o total em segundos.
+
+Tafera 04
+
+﻿Bom dia Caros Alunos,
+
+Como vão?
+
+Espero que muito bem.
+
+Abaixo, segue as atividades da linguagem de programação Python.
+
+Bons Estudos.
+
+Professor Obama.
+
+Questões a serem respondidas:
+
+1) Faça um programa que receba a idade do usuário e imprima se ele é maior de idade ou não.
+2) Faça um programa que peça ao usuário para digitar um número e informe se é par ou ímpar.
+3) Escreva um programa que peça ao usuário para digitar uma frase e conte quantas vogais (a, e, i, o, u) ela possui.
+4) Escreva um programa que peça ao usuário para digitar três números e retorne o maior deles.
+5) Escreva um programa que peça ao usuário para digitar um número e verifique se é positivo, negativo ou zero.
+6) Faça um programa que receba um número inteiro e retorne se é primo ou não.
+7) Ler um valor e escrever a mensagem É MAIOR QUE 10! se o valor lido for maior que 10, caso contrário escrever NÃO É MAIOR QUE 10!
+8) Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).
+9) As maçãs custam R$ 1,30 cada se forem compradas menos de uma dúzia, e R$ 1,00 se forem compradas pelo menos 12. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o custo total da compra.
+10) Ler as notas da 1a. e 2a. avaliações de um aluno. Calcular a média aritmética simples e escrever uma mensagem que diga se o aluno foi ou não aprovado (considerar que nota igual ou maior que 6 o aluno é aprovado). Escrever também a média calculada.
+
+Tarefa 05
+
+﻿Bom dia Caros Alunos,
+
+Como vão?
+
+Espero que muito bem.
+
+Abaixo, segue as atividades da linguagem de programação Python.
+
+Bons Estudos.
+
+Professor Obama.
+
+Questões a serem respondidas:
+﻿
+﻿1) Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
+2) Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.
+3) Escreva um algoritmo para ler uma temperatura em graus Fahrenheit, calcular e escrever o valor correspondente em graus Celsius (baseado na fórmula abaixo):
+
+C= (F - 32)*5/9
+
+Observação: Para testar se a sua resposta está correta saiba que 100oC = 212F
+
+4) Faça um algoritmo que leia três notas de um aluno, calcule e escreva a média final deste aluno.
+Considerar que a média é ponderada e que o peso das notas é 2, 3 e 5. Fórmula para o cálculo da média final é:
+mediafinal =(n1 * 2 + n2 * 3 + n3 * 5)/10
+
+5) Ler um valor e escrever a mensagem É MAIOR QUE 10! se o valor lido for maior que 10, caso contrário escrever NÃO É MAIOR QUE 10!
+6) Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).
+7) As maçãs custam R$ 1,30 cada se forem compradas menos de uma dúzia, e R$ 1,00 se forem compradas pelo menos 12. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o custo total da compra.
+8) Ler as notas da 1a. e 2a. avaliações de um aluno. Calcular a média aritmética simples e escrever uma mensagem que diga se o aluno foi ou não aprovado (considerar que nota igual ou maior que 6 o aluno é aprovado). Escrever também a média calculada.
+9) Ler o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se ela poderá ou não votar este ano (não é necessário considerar o mês em que a pessoa nasceu).
+10) Ler dois valores (considere que não serão lidos valores iguais) e escrever o maior deles.
+11) Ler dois valores (considere que não serão lidos valores iguais) e escrevê-los em ordem crescente.
+12) Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. Após, calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito). Também testar se saldo atual for maior ou igual a zero escrever a mensagem 'Saldo Positivo', senão escrever a mensagem 'Saldo Negativo'.
+13) Ler um valor e escrever se é positivo, negativo ou zero.
+14) Ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
+
+Tarefa 06
+
+
+Bom dia Caros Alunos,
+
+Como vão?
+
+Espero que muito bem.
+
+Abaixo, segue as atividades da linguagem de programação Python.
+
+Bons Estudos.
+
+Professor Obama.
+
+Questões a serem respondidas:
+
+﻿1) Ler dois valores numéricos inteiros e apresentar o resultado da diferença do maior pelo menor valor.
+2) Efetuar a leitura de um valor inteiro positivo ou negativo e apresentar o número lido como sendo um valor positivo, ou seja, o programa deverá apresentar o módulo de um número fornecido. Lembre-se de verificar se o número fornecido é menor que zero; sendo, multiplique-o por -1.
+3) Ler quatro valores referentes a quatro notas escolares de um aluno e imprimir uma mensagem dizendo que o aluno foi aprovado, se o valor da média escolar for maior ou igual a 5. Se o aluno não foi aprovado, indicar uma mensagem informando esta condição. Apresentar junto das mensagens o valor da média do aluno para qualquer condição.
+4) Ler quatro valores referentes a quatro notas escolares de um aluno e imprimir uma mensagem dizendo que o aluno foi aprovado, se o valor da média escolar for maior ou igual a 7. Se o valor da média for menor que 7, solicitar a nota de exame, somar com o valor da média e obter nova média. Se a nova média for maior ou igual a 5, apresentar uma mensagem dizendo que o aluno foi aprovado em exame. Se o aluno não foi aprovado, indicar uma mensagem informando esta condição. Apresentar com as mensagens o valor da média do aluno, para qualquer condição.
+5) Efetuar a leitura de três valores (variáveis A, B e C) e apresentá-los dispostos em ordem crescente.
+6) Elaborar um programa que efetue a leitura do nome e do sexo de uma pessoa, apresentando com saída uma das seguintes mensagens: "Ilmo Sr.", se o sexo informado como masculino, ou a mensagem "Ilma Sra.", para o sexo informado como feminino. Apresente também junto da mensagem de saudação o nome previamente informado.
+
+
+Tarefa 07
+
+Bom dia Caros Alunos,
+
+Como vão?
+
+Espero que muito bem.
+
+Abaixo, segue as atividades da linguagem de programação Python.
+
+Bons Estudos.
+
+Professor Obama.
+
+Questões a serem respondidas:
+﻿
+1) Apresentar os resultados de uma tabuada de multiplicar (de 1 até 10) de um número qualquer.
+2) Apresentar o total da soma obtida dos cem primeiros números inteiros (1+2+3+4+...+98+99+100).
+3) Elaborar um programa que apresente no final o somatório dos valores pares existentes na faixa de 1 até 500.
+4) Apresentar todos os valores numéricos inteiros ímpares situados na faixa de 0 a 20. Para verificar se o número é ímpar, efetuar dentro da malha a verificação lógica desta condição com a instrução se, perguntando se o número é ímpar; sendo, mostre-o; não sendo, passe para o próximo passo.
+5) Elaborar um programa que apresente os valores de conversão de graus Celsius em Fahrenheit, de 10 em 10 graus, iniciando a contagem em 10 graus Celsius e finalizando em 100 graus Celsius. O programa deve apresentar os valores das duas temperaturas. A fórmula de conversão é F = 9C+160/5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
+6) Elaborar um programa que efetue a leitura de 10 valores numéricos e apresente no final o total do somatório e a média aritmética dos valores lidos.
+7) Elaborar um programa que apresente os resultados da soma e da média aritmética dos valores pares situados na faixa numérica de 50 a 70.
+8) Elaborar um programa que possibilite calcular a área total de uma residência (sala, cozinha,
+banheiro, quartos, área de serviço, quintal, garagem, etc.). O programa deve solicitar a entrada do nome, a largura e o comprimento de um determinado cômodo. Em seguida, deve apresentar a área do cômodo lido e também uma mensagem solicitando do usuário a confirmação de continuar calculando novos cômodos. Caso o usuário responda “NAO”, o programa deve apresentar o valor total acumulado da área residencial.
+9) Elaborar um programa que efetue a leitura de valores positivos inteiros até que um valor negativo seja informado. Ao final devem ser apresentados o maior e o menor valores informados pelo usuário.
+
+Tarefa 08
+
+﻿Bom dia Caros Alunos,
+
+Como vão?
+
+Espero que muito bem.
+
+Abaixo, segue as atividades da linguagem de programação Python.
+
+Bons Estudos.
+
+Professor Obama.
+
+Questões a serem respondidas:
+
+1) Apresentar os quadrados dos números inteiros de 15 a 200.
+2) Apresentar os resultados de uma tabuada de multiplicar (de 1 até 10) de um número qualquer. c) Apresentar o total da soma obtida dos cem primeiros números inteiros (1+2+3+4+...+98+99+100). d) Elaborar um programa que apresente no final o somatório dos valores pares existentes na faixa de 1 até 500.
+3) Apresentar todos os valores numéricos inteiros ímpares situados na faixa de 0 a 20. Para verificar se o número é ímpar, efetuar dentro da malha a verificação lógica desta condição com a instrução se, perguntando se o número é ímpar; sendo, mostre-o; não sendo, passe para o próximo passo.
+4) Apresentar todos os números divisíveis por 4 que sejam menores que 200. Para verificar se o número é divisível por 4, efetuar dentro da malha a verificação lógica desta condição com a instrução se, perguntando se o número é divisível; sendo, mostre-o; não sendo, passe para o próximo passo. A variável que controlará o contador deve ser iniciada com o valor 1.
+5) Elaborar um programa que apresente os valores de conversão de graus Celsius em Fahrenheit, de 10 em 10 graus, iniciando a contagem em 10 graus Celsius e finalizando em 100 graus Celsius. O programa deve apresentar os valores das duas temperaturas. A fórmula de conversão F = (9C +160)/5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
+6) Elaborar um programa que apresente como resultado o valor do fatorial dos valores ímpares situados na faixa numérica de 1 a 10.
